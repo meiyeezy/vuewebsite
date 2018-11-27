@@ -13,11 +13,11 @@
         <contactSection />
       </div>
     </full-page> 
-     <ul id="menu">
+     <!-- <ul id="menu">
       <li data-menuanchor="intro" class="active"><a href="#intro">intro</a></li>
       <li data-menuanchor="about"><a href="#about">about</a></li>
       <li data-menuanchor="contact"><a href="#contact">contact</a></li>
-    </ul>
+    </ul> -->
     <i class="fas fa-angle-down floating" id="down" @click="$refs.fullpage.api.moveSectionDown()"></i>
   </div>
 </template>
@@ -39,7 +39,7 @@ export default {
       options: {
         licenseKey: "OPEN-SOURCE-GPLV3-LICENSE",
         anchors: ["intro", "about", "contact"],
-        menu: "#menu",
+        // menu: "#menu",
         loopBottom: true
       }
     };

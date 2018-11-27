@@ -5,7 +5,8 @@
     <p>recent graduate from university of east anglia. currently working as a front-end developer in central london. 
       interested in video game development, full stack development, and funky web design</p>
     <p><b>skills: </b> html, css, javascript (node, react, vue), c#, unity, mysql, basic oop (c, c++, java)</p>
-    <p><b>creator of: </b> <a href="https://roll-for.herokuapp.com"><u>roll for initiative</u></a>, a react.js app</p>
+    <p><b>creator and owner of: </b> <a href="https://roll-for.herokuapp.com" target="_blank"><u>roll for initiative</u></a>, a react.js app; 
+    <a href="https://twitter.com/critcosplaybot"><u>critical role cosplay bot</u></a>, a node.js twitter bot</p>
     <p><b>working on: </b> learning unity3d, pushing updated twitter bot to heroku</p>
   </div>
   </div>
