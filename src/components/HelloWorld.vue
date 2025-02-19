@@ -3,7 +3,7 @@
     <img id="logo" src="../assets/blue20.png" />
     <h1>alice mei-yee cheng</h1>    
     <p>
-      a 25-year-old developer in london, uk
+      a 29-year-old developer in london, uk
     </p>
   </div>
 </template>
